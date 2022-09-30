@@ -21,6 +21,8 @@
 
 #include <memory> // For unique_ptr.
 
+#include "itkNamespace.h"
+
 #if __cplusplus < 202002L
 
 #  include <type_traits> // For remove_extent_t, false_type, etc.

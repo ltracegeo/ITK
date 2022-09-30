@@ -19,6 +19,8 @@
 #ifndef itkBitCast_h
 #define itkBitCast_h
 
+#include "itkNamespace.h"
+
 #if __cplusplus < 202002L
 
 #  include <cstring>     // For memcpy.

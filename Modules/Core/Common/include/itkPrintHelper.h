@@ -23,6 +23,7 @@
 #include <iterator>
 #include <vector>
 
+#include "itkNamespace.h"
 
 namespace itk
 {
